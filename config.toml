@@ -49,7 +49,7 @@ ollama_model_name = ""
 
 ########## OpenAI API Key
 # Get your API key at https://platform.openai.com/api-keys
-openai_api_key = "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"
+openai_api_key = "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"
 # No need to set it unless you want to use your own proxy
 openai_base_url = ""
 # Check your available models at https://platform.openai.com/account/limits
